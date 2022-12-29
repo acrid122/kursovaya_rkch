@@ -349,7 +349,7 @@ html, body {
         align-items: flex-start;
     }
     .container{
-        padding-top: 300px;
+        padding-top: 600px;
         flex-wrap: wrap;
         justify-content: left;
         gap: 0;
@@ -384,9 +384,6 @@ html, body {
     }
     h1{
         font-size: 7vh;
-    }
-    .container{
-        padding-top: 300px;
     }
     .container li a{
         width: 125px;
