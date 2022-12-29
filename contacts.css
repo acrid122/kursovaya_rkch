@@ -385,6 +385,9 @@ html, body {
     h1{
         font-size: 7vh;
     }
+    .container{
+        padding-top: 300px;
+    }
     .container li a{
         width: 125px;
         height: 125px;
